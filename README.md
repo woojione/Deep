@@ -1,2 +1,2 @@
-# Deep
-Deep learning
+# Deep-learning
+self study
